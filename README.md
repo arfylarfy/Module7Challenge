@@ -8,27 +8,27 @@ This repository includes a Jupyter notebook that contains analysis of the ETF da
 ## Technologies
 This project is written in python. The required libraries in order to use the application are numpy, pandas, hvplot.pandas, sqlalchemy, and inspect from sqlalchemy
 
-![Import libraries](https://github.com/arfylarfy/Module7Challenge/blob/master/Images/Libraries_Dependencies.png)
+![Import libraries](https://github.com/arfylarfy/Module7Challenge/blob/main/Images/Libraries_Dependencies.png)
 
 ## Examples
 
-![PayPalDailyReturns](https://github.com/arfylarfy/Module7Challenge/blob/master/Images/PayPal_Daily_returns.png)
+![PayPalDailyReturns](https://github.com/arfylarfy/Module7Challenge/blob/main/Images/PayPal_Daily_returns.png)
 
-![PayPalCumulativeReturns](https://github.com/arfylarfy/Module7Challenge/blob/master/Images/PayPal_Cumulative_returns.png)
+![PayPalCumulativeReturns](https://github.com/arfylarfy/Module7Challenge/blob/main/Images/PayPal_Cumulative_returns.png)
 
-![ETFCumulativeReturns](https://github.com/arfylarfy/Module7Challenge/blob/master/Images/ETF_Cumulative_returns.png)
+![ETFCumulativeReturns](https://github.com/arfylarfy/Module7Challenge/blob/main/Images/ETF_Cumulative_returns.png)
 
 
 ## Deploy The Notebook as a Web Application
 
-![VoilaPathway](https://github.com/arfylarfy/Module7Challenge/blob/master/Images/VoilaPathway.png)
+![VoilaPathway](https://github.com/arfylarfy/Module7Challenge/blob/main/Images/VoilaPathway.png)
 
 
 ## Examples
 
-![Voila1](https://github.com/arfylarfy/Module7Challenge/blob/master/Images/Voila_1.png)
+![Voila1](https://github.com/arfylarfy/Module7Challenge/blob/main/Images/Voila_1.png)
 
-![Voila2](https://github.com/arfylarfy/Module7Challenge/blob/master/Images/Voila_2.png)
+![Voila2](https://github.com/arfylarfy/Module7Challenge/blob/main/Images/Voila_2.png)
 
 
 ## Contributors
